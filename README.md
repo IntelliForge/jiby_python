@@ -1,5 +1,7 @@
 # Python tasks
 
+If any section contains more than 30 problems, solve only 30.
+
 - Exception Handling
 - Boolean + None + Bytes + Memory views
 - String
