@@ -14,4 +14,6 @@ If any section contains more than 30 problems, solve only 30.
 - File I/O + CSV Read, Write
 - Classs + Python Object-Oriented Programming
 - Regular Expression
-- Search and Sorting
+- Numpy
+- Pandas
+- Matplotlib
